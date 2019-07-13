@@ -1,0 +1,14 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node_modules/.bin/static"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-static": "^0.7.11"
+  }
+}
